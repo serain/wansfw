@@ -1,3 +1,5 @@
+# Old stuff I wrote at Uni - kept for entertainement
+
 # wansfw
 Tool for packing, unpacking and validating firmware files for Wansview IP Cameras.
 
